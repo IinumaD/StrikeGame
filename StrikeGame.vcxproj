@@ -164,6 +164,7 @@
   <ItemGroup>
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Sources\Ball.cpp" />
+    <ClCompile Include="Sources\Pull.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Resource.rc" />
@@ -279,6 +280,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Sources\Ball.h" />
+    <ClInclude Include="Sources\Pull.h" />
     <ClInclude Include="Sources\Monster.h" />
     <ClInclude Include="Sources\Position.h" />
   </ItemGroup>
